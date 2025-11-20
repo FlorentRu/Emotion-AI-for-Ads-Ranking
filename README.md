@@ -21,13 +21,10 @@ Python 3.8+
 local GPU environment
 
 Installation
-1- Clone the repository
 
-git clone https://github.com/yourusername/emotion-aware-ranking.git
+- cd emotion-aware-ranking
 
-cd emotion-aware-ranking
-
-2- Install dependencies
+- Install dependencies
 
 pip install -r requirements.txt
 
