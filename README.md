@@ -114,15 +114,15 @@ Based on Nielsen's dimensional emotion research, this system models:
 
 emotion-aware-ranking/
 │
-├── emotion_aware_ranking.ipynb    # Main Colab notebook
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project documentation
+
+├── emotion_aware_ranking.ipynb    
+
+├── requirements.txt               
+
+├── README.md                      
+
 ├── assets/                        # Visualizations and diagrams
-│   ├── architecture.png
-│   └── results.png
-└── examples/                      # Usage examples
-    ├── basic_usage.py
-    └── custom_integration.py
+
 
 ## Usage Examples
 
@@ -182,7 +182,7 @@ Frustrated	2.5%	Medium
 
 Bored	1.8%	Low
 
-## Future Work
+# Future Work
 
 - Multi-modal emotion inference (text, image, behavior)
 
