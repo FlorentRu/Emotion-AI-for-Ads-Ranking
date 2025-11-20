@@ -121,7 +121,7 @@ emotion-aware-ranking/
 
 ├── README.md                      
 
-├── assets/                        # Visualizations and diagrams
+├── assets/                       
 
 
 ## Usage Examples
