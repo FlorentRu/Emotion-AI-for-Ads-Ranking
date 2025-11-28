@@ -112,10 +112,10 @@ Based on Nielsen's dimensional emotion research, this system models:
 
 ## Project Structure
 
-emotion-aware-ranking/
+emotion-AI-for Ads-ranking/
 │
 
-├── emotion_aware_ranking.ipynb    
+├── Emotion_AI_for_Ads_ranking.ipynb    
 
 ├── requirements.txt               
 
