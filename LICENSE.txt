@@ -1,0 +1,27 @@
+CUSTOM PROJECT LICENSE v1.0
+
+1. DEFINITIONS
+   - "Project" refers to all source code, documentation, and assets in this repository.
+   - "Licensee" is any individual or entity using the Project.
+   - "Commercial Use" is any use for monetary gain, including internal use by for-profit entities.
+
+2. GRANT OF RIGHTS
+   The author grants Licensee a worldwide, royalty-free, non-sublicensable license to:
+   a) Use the Project.
+   b) Modify the Project to create Derivative Works for personal or internal use.
+   c) Distribute verbatim copies of the original Project.
+
+3. CORE RESTRICTIONS
+   Licensee is expressly prohibited from:
+   a) Using the Project for any Commercial Purpose.
+   b) Publicly distributing or sublicensing any Derivative Work based on the Project.
+   c) Offering the Project or its Derivative Works as a hosted service (SaaS/Paas).
+
+4. CONTRIBUTED CODE
+   Code contributed to the Project's official repository is governed by this License and the Project's Contributor License Agreement.
+
+5. DISCLAIMER & LIMITATION
+   THE PROJECT IS PROVIDED "AS IS" WITHOUT WARRANTY. THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM ITS USE.
+
+6. TERMINATION
+   Breach of this License terminates rights automatically. Licensee must destroy all copies of the Project.
